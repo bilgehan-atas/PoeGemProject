@@ -1,0 +1,13 @@
+<div #ddMenuRef class="container">
+    <span (click)="toggleDd()" #selectedMenuRef class="selected"> 
+        {{selectedMenu}}
+    </span>
+    <i class="fa-sharp fa-solid fa-chevron-down"></i>
+    <div class="flexcontainer">
+        <div *ngIf="isOpen" class="dropdown">
+            <ul>
+                <li *ngFor="let item of menuItems" (click)="toggleSelect(item)"><span class="option">{{item}}</span></li>
+            </ul>
+        </div>
+    </div>
+</div>
