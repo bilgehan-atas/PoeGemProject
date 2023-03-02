@@ -1,10 +1,12 @@
 import { Component, ElementRef, Input, OnInit, Renderer2, ViewChild } from '@angular/core';
+import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-dropdown',
   templateUrl: './dropdown.component.html',
   styleUrls: ['./dropdown.component.scss']
 })
+
 export class DropdownComponent implements OnInit {
   @ViewChild('ddMenuRef') ddMenuRef: ElementRef;
   @ViewChild('selectedMenuRef') selectedMenuRef: ElementRef;
@@ -12,6 +14,8 @@ export class DropdownComponent implements OnInit {
   @Input() menuItems: Array<string> = []
   selectedMenu: string = "";
   isOpen: boolean = false;
+
+  faChevronDown = faChevronDown;
 
   toggleDd() {
     this.isOpen = !this.isOpen

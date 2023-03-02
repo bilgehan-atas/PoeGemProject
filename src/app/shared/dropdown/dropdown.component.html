@@ -1,13 +1,10 @@
-<div #ddMenuRef class="container">
-    <span (click)="toggleDd()" #selectedMenuRef class="selected"> 
-        {{selectedMenu}}
-    </span>
-    <i class="fa-sharp fa-solid fa-chevron-down"></i>
-    <div class="flexcontainer">
-        <div *ngIf="isOpen" class="dropdown">
-            <ul>
-                <li *ngFor="let item of menuItems" (click)="toggleSelect(item)"><span class="option">{{item}}</span></li>
-            </ul>
-        </div>
+<div id="screenOverlay" *ngIf="isOpen"></div>
+<div #ddMenuRef class="container" [ngClass]="{over: isOpen}">
+    <div >
+        <span (click)="toggleDd()" #selectedMenuRef> {{selectedMenu}}</span>
+        <fa-icon [icon]="faChevronDown" class="faChevron" [ngClass]="{rot180: isOpen}"></fa-icon>
     </div>
+    <ul *ngIf="isOpen" class="dropdown">
+        <li *ngFor="let item of menuItems" (click)="toggleSelect(item)"><span class="option">{{item}}</span></li>
+    </ul>
 </div>

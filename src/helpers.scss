@@ -1,0 +1,10 @@
+$accent: #ac0020;
+$background: #ffffff;
+
+@mixin propByView($property, $views) {
+  @each $view, $value in $views {
+    @media only screen and (min-width: $view) {
+      #{$property}: $value;
+    }
+  }
+}
