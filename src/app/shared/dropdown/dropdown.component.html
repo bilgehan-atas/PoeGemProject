@@ -1,6 +1,6 @@
 <div id="screenOverlay" *ngIf="isOpen"></div>
 <div #ddMenuRef class="container" [ngClass]="{over: isOpen}">
-    <div >
+    <div class="selected">
         <span (click)="toggleDd()" #selectedMenuRef> {{selectedMenu}}</span>
         <fa-icon [icon]="faChevronDown" class="faChevron" [ngClass]="{rot180: isOpen}"></fa-icon>
     </div>

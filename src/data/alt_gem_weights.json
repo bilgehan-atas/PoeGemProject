@@ -1,0 +1,3097 @@
+[
+    {
+        "Name": "Absolution",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Added Chaos Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Added Cold Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Added Fire Damage Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Added Lightning Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Additional Accuracy Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Advanced Traps Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Alchemist's Mark",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Ambush",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Ancestral Call Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Ancestral Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ancestral Protector",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Ancestral Warchief",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Anger",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Animate Guardian",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Animate Weapon",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Arc",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Arcane Cloak",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Arcane Surge Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Arcanist Brand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Archmage Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Arctic Armour",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Armageddon Brand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Arrogance Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Arrow Nova Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Artillery Ballista",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Assassin's Mark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Awakened Added Chaos Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Added Cold Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Added Fire Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Added Lightning Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Ancestral Call Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Arrow Nova Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Blasphemy Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Brutality Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Burning Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Cast On Critical Strike Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Cast While Channelling Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Chain Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Cold Penetration Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Controlled Destruction Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Deadly Ailments Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Elemental Damage with Attacks Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Elemental Focus Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Empower Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Enhance Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Enlighten Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Fire Penetration Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Fork Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Generosity Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Greater Multiple Projectiles Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Hextouch Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Increased Area of Effect Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Lightning Penetration Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Melee Physical Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Melee Splash Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Minion Damage Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Multistrike Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Spell Cascade Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Spell Echo Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Swift Affliction Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Unbound Ailments Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Unleash Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Vicious Projectiles Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Awakened Void Manipulation Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Ball Lightning",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Ballista Totem Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Bane",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Barrage",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Barrage Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Battlemage's Cry",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Bear Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Behead Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Berserk",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Blade Blast",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "10",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Blade Flurry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Blade Trap",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Blade Vortex",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Bladefall",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Bladestorm",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Blasphemy Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Blast Rain",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Blastchain Mine Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Blazing Salvo",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Blight",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Blind Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Blink Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Block Chance Reduction Support",
+        "Superior": "50",
+        "Anomalous": "20"
+    },
+    {
+        "Name": "Blood and Sand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Blood Rage",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Bloodlust Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Bloodthirst Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Bodyswap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Bone Offering",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Bonechill Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Boneshatter",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Brand Recall",
+        "Superior": "50",
+        "Anomalous": "20"
+    },
+    {
+        "Name": "Brutality Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Burning Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Burning Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cast On Critical Strike Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cast on Death Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cast on Melee Kill Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Cast when Damage Taken Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Cast when Stunned Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cast while Channelling Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Caustic Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Chain Hook",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Chain Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Chance to Bleed Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Chance to Flee Support",
+        "Superior": "10000",
+        "Anomalous": "1"
+    },
+    {
+        "Name": "Chance to Poison Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Charged Dash",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Charged Mines Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Charged Traps Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Clarity",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cleave",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Close Combat Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cluster Traps Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cobra Lash",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cold Penetration Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cold Snap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cold to Fire Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Combustion Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Concentrated Effect Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Conductivity",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Consecrated Path",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Contagion",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Controlled Destruction Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Conversion Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Convocation",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Corrupting Fever",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Crackling Lance",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Creeping Frost",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Cremation",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Critical Strike Affliction Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Cruelty Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Culling Strike Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Cursed Ground Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Cyclone",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Damage on Full Life Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Dark Pact",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Dash",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Deadly Ailments Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Decay Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Decoy Totem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Defiance Banner",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Desecrate",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Despair",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Destructive Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Determination",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Detonate Dead",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Detonate Mines",
+        "Superior": "1000",
+        "Anomalous": "1"
+    },
+    {
+        "Name": "Devouring Totem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Discharge",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Discipline",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Divine Blessing Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Divine Ire",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Dominating Blow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Double Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Dread Banner",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Dual Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Earthbreaker Support",
+        "Superior": "100",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Earthquake",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "5"
+    },
+    {
+        "Name": "Earthshatter",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Efficacy Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Elemental Army Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Elemental Damage with Attacks Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Elemental Focus Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Elemental Hit",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Elemental Penetration Support",
+        "Superior": "50",
+        "Anomalous": "100"
+    },
+    {
+        "Name": "Elemental Proliferation Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Elemental Weakness",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Empower Support",
+        "Superior": "50",
+        "Anomalous": "5"
+    },
+    {
+        "Name": "Endurance Charge on Melee Stun Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Enduring Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Energy Blade",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Energy Leech Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Enfeeble",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Enhance Support",
+        "Superior": "50",
+        "Anomalous": "5"
+    },
+    {
+        "Name": "Enlighten Support",
+        "Superior": "50",
+        "Anomalous": "5"
+    },
+    {
+        "Name": "Ensnaring Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Essence Drain",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Eternal Blessing Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Ethereal Knives",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Explosive Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Explosive Concoction",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Explosive Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Exsanguinate",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Eye of Winter",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Faster Attacks Support",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Faster Casting Support",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Faster Projectiles Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Feeding Frenzy Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Fire Penetration Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Fire Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Fireball",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "40",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Firestorm",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Fist of War Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Flame Dash",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Flame Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Flame Surge",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Flame Wall",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Flameblast",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "20",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Flamethrower Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Flammability",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Flesh and Stone",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Flesh Offering",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Flicker Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Focused Ballista Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Forbidden Rite",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Fork Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Fortify Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Freezing Pulse",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Frenzy",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Frost Blades",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Frost Bomb",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Frost Shield",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Frost Wall",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Frostbite",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Frostblink",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Frostbolt",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Frozen Legion",
+        "Anomalous": "50",
+        "Divergent": "50",
+        "Superior": "50"
+    },
+    {
+        "Name": "Galvanic Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Galvanic Field",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "10",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "General's Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Generosity Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Glacial Cascade",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Glacial Hammer",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Grace",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Greater Multiple Projectiles Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Greater Volley Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ground Slam",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Haste",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Hatred",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Heavy Strike",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Herald of Agony",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Herald of Ash",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Herald of Ice",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Herald of Purity",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Herald of Thunder",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Hex Bloom Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Hexblast",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Hextouch Support",
+        "Anomalous": "100",
+        "Superior": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "High-Impact Mine Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Holy Flame Totem",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Hydrosphere",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Hypothermia Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ice Bite Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ice Crash",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Ice Nova",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Ice Shot",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ice Spear",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Ice Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Icicle Mine",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Ignite Proliferation Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Immolate Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Immortal Call",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Impale Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Impending Doom Support",
+        "Anomalous": "100",
+        "Superior": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Incinerate",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Increased Area of Effect Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Increased Critical Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Increased Critical Strikes Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Increased Duration Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Infernal Blow",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Infernal Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Infernal Legion Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Infused Channelling Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Innervate Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Inspiration Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Intensify Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Intimidating Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Intuitive Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Iron Grip Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Iron Will Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Item Quantity Support",
+        "Superior": "50"
+    },
+    {
+        "Name": "Item Rarity Support",
+        "Superior": "10000",
+        "Anomalous": "1"
+    },
+    {
+        "Name": "Kinetic Blast",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Kinetic Bolt",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Knockback Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Lacerate",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Lancing Steel",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Leap Slam",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Less Duration Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Lesser Multiple Projectiles Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Life Gain on Hit Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Life Leech Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Lifetap Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Lightning Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Lightning Conduit",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Lightning Penetration Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Lightning Spire Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Lightning Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Lightning Tendrils",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Lightning Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Lightning Warp",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Maim Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Malevolence",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Mana Leech Support",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Manabond",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Mark On Hit Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Meat Shield Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Melee Physical Damage Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Melee Splash Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Minefield Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Minion Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Minion Life Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Minion Speed Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Mirage Archer Support",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Mirror Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Molten Shell",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Molten Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Multiple Totems Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Multiple Traps Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Multistrike Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Nightblade Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Old Arctic Armour",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Old Lightning Tendrils",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Old Phase Run",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Onslaught Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Orb of Storms",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Overcharge Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Penance Brand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Perforate",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Pestilent Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Petrified Blood",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Phase Run",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Physical to Lightning Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Pierce Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Pinpoint Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Plague Bearer",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Poacher's Mark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Point Blank Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Poisonous Concoction",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Portal",
+        "Superior": "10000",
+        "Anomalous": "1"
+    },
+    {
+        "Name": "Power Charge On Critical Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Power Siphon",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Precision",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Predator Support",
+        "Superior": "50",
+        "Divergent": "100",
+        "Anomalous": "100"
+    },
+    {
+        "Name": "Pride",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Protective Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Pulverise Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Puncture",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "20",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Punishment",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Purifying Flame",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Purity of Elements",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Purity of Fire",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Purity of Ice",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Purity of Lightning",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Pyroclast Mine",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Rage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Rage Vortex",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Rain of Arrows",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Raise Spectre",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Raise Zombie",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Rallying Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Reap",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Reave",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Reckoning",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Rejuvenation Totem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Righteous Fire",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Riposte",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Rolling Magma",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Ruthless Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Scorching Ray",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Scourge Arrow",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Searing Bond",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Second Wind Support",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Seismic Cry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Seismic Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Shattering Steel",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Shield Charge",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Shield Crush",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Shock Nova",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Shockwave Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Shockwave Totem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Shrapnel Ballista",
+        "Superior": "50",
+        "Anomalous": "5",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Siege Ballista",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Sigil of Power",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Siphoning Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Slower Projectiles Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Smite",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Smoke Mine",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Sniper's Mark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Soul Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Soulrend",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Spark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Spectral Helix",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Spectral Shield Throw",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Spectral Throw",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Spell Cascade Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Spell Echo Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Spell Totem Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Spellslinger",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Spirit Offering",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Split Arrow",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Splitting Steel",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Static Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Steelskin",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Storm Brand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Storm Burst",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Storm Call",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Storm Rain",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Stormbind",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Stormblast Mine",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Stun Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Summon Carrion Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Chaos Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Flame Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Holy Relic",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Summon Ice Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Lightning Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Phantasm Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Raging Spirit",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Summon Reaper",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Summon Skeletons",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Summon Skitterbots",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Summon Stone Golem",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Sunder",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Sweep",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Swift Affliction Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Swift Assembly Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Swiftbrand Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Tectonic Slam",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Tempest Shield",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Temporal Chains",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Temporal Rift",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Tornado",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Tornado Shot",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Toxic Rain",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Trap and Mine Damage Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Trap Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Trinity Support",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Unbound Ailments Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Unearth",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Unleash Support",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Urgent Orders Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    },
+    {
+        "Name": "Vaal Ancestral Warchief",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Arc",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Vaal Blade Flurry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Vaal Blade Vortex",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Blight",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Breach",
+        "Superior": "10000",
+        "Anomalous": "1"
+    },
+    {
+        "Name": "Vaal Burning Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Caustic Arrow",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Clarity",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Cleave",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Vaal Cold Snap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Cyclone",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Detonate Dead",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Vaal Discipline",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Vaal Double Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Earthquake",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "5"
+    },
+    {
+        "Name": "Vaal Fireball",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "40",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Vaal Flameblast",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "20",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Vaal Flesh Offering",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Flicker Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Glacial Hammer",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Grace",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Ground Slam",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Vaal Haste",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Vaal Ice Nova",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Immortal Call",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Impurity of Fire",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Impurity of Ice",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Impurity of Lightning",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Lightning Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Lightning Trap",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Lightning Warp",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Molten Shell",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Vaal Molten Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Power Siphon",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Vaal Rain of Arrows",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Reave",
+        "Superior": "50",
+        "Anomalous": "20",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Vaal Righteous Fire",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vaal Smite",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Vaal Spark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vaal Spectral Throw",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Vaal Storm Call",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Vaal Summon Skeletons",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Vaal Venom Gyre",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vaal Volcanic Fissure",
+        "Superior": "50",
+        "Anomalous": "100"
+    },
+    {
+        "Name": "Vampiric Link",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Vengeance",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Venom Gyre",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Vicious Projectiles Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Vigilant Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vile Toxins Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Viper Strike",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "10"
+    },
+    {
+        "Name": "Vitality",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Void Manipulation Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "10"
+    },
+    {
+        "Name": "Void Sphere",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "20",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Volatile Dead",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Volcanic Fissure",
+        "Superior": "50",
+        "Anomalous": "100"
+    },
+    {
+        "Name": "Volley Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Voltaxic Burst",
+        "Superior": "100",
+        "Anomalous": "50",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Vortex",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Vulnerability",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "War Banner",
+        "Superior": "50",
+        "Anomalous": "10",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Warlord's Mark",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Wave of Conviction",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "20"
+    },
+    {
+        "Name": "Whirling Blades",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Wild Strike",
+        "Superior": "50",
+        "Anomalous": "50",
+        "Divergent": "50",
+        "Phantasmal": "50"
+    },
+    {
+        "Name": "Winter Orb",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100",
+        "Phantasmal": "100"
+    },
+    {
+        "Name": "Wintertide Brand",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "100"
+    },
+    {
+        "Name": "Wither",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Withering Step",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "20"
+    },
+    {
+        "Name": "Withering Touch Support",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "50"
+    },
+    {
+        "Name": "Wrath",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "1"
+    },
+    {
+        "Name": "Zealotry",
+        "Superior": "50",
+        "Anomalous": "100",
+        "Divergent": "5"
+    }
+]

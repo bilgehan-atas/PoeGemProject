@@ -1,6 +1,6 @@
 html {
   font-size: 62.5%;
-  
+
   body {
     margin: 0;
     padding: 0;
@@ -27,4 +27,13 @@ html {
   p {
     margin: 0;
   }
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }

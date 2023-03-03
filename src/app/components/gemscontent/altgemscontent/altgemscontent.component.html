@@ -1,0 +1,60 @@
+<div class="container">
+  <div class="control-row">
+    <mat-form-field>
+      <mat-label> Filter </mat-label>
+      <input matInput placeholder="filter" (keyup)="filterChange($event)" />
+    </mat-form-field>
+    <mat-paginator [pageSizeOptions]="pageSizeOptions" showFirstLastButtons></mat-paginator>
+  </div>
+
+  <div class="table-responsive">
+    <table mat-table [dataSource]="dataSource" matSort>
+      <tr mat-header-row *matHeaderRowDef="columnsToDisplay"></tr>
+      <tr mat-row *matRowDef="let row; columns: columnsToDisplay"></tr>
+  
+      <ng-container matColumnDef="fName">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Name</th>
+        <td mat-cell *matCellDef="let gem" data-label="fName">
+          {{ gem.fName }}
+        </td>
+      </ng-container>
+  
+      <ng-container matColumnDef="from_gem">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>From</p></th>
+        <td mat-cell *matCellDef="let gem" data-label="from_gem">{{ gem.from_gem }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="method">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>Mehod</p></th>
+        <td mat-cell *matCellDef="let gem" data-label="method">{{ gem.method }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="bCost">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>Base Gem Cost</p> <p class="secondary">(in Chaos)</p></th>
+        <td mat-cell *matCellDef="let gem" data-label="bCost">{{ gem.bCost | number : '1.0-0' }}</td>
+      </ng-container>
+  
+      <ng-container matColumnDef="tries">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>Tries</p></th>
+        <td mat-cell *matCellDef="let gem" data-label="tries">{{ gem.tries | number : '1.0-2' }}</td>
+      </ng-container>
+  
+      <ng-container matColumnDef="cost">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>Total Cost</p> <p class="secondary">(in Chaos)</p></th>
+        <td mat-cell *matCellDef="let gem" data-label="cost">{{ gem.cost | number : '1.0-0' }}</td>
+      </ng-container>
+  
+      <ng-container matColumnDef="value">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header><p>Value</p> <p class="secondary">(in Chaos)</p></th>
+        <td mat-cell *matCellDef="let gem">{{ gem.value | number : '1.0-0' }}</td>
+      </ng-container>
+  
+      <ng-container matColumnDef="profit">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <p>Expected Profit</p> <p class="secondary">(in Chaos)</p>
+        </th>
+        <td mat-cell *matCellDef="let gem" data-label="profit" appDynamicColor [value]="gem.profit" [minMaxValues]="minMaxValues">{{ gem.profit | number : '1.0-0' }}</td>
+      </ng-container>
+    </table>
+  </div>
+</div>

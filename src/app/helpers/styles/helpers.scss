@@ -1,5 +1,10 @@
-$accent: #ac0020;
-$background: #ffffff;
+
+@import '../../../styles.scss';
+
+$app-accent: #c2185bde;
+$app-background: #303030;
+$app-cbackground: #424242;
+$app-mborders:#9C9C9C;
 
 @mixin propByView($property, $views) {
   @each $view, $value in $views {

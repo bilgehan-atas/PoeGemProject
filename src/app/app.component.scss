@@ -1,4 +1,5 @@
-@import "../helpers.scss";
+@use "@angular/material" as mat;
+@import "../app/helpers/styles/helpers.scss"; 
 
 $max-width-by-view: (
   360px: 100%,
@@ -11,15 +12,27 @@ $max-width-by-view: (
   @include propByView('max-width', $max-width-by-view);
 }
 
-.header-container {
-  width: 100%;
-  border-top: 0.1rem solid #c5c5c5;
-  border-bottom: 0.1rem solid #c5c5c5;
-  border-right: none;
-  border-left: none;
+.main {
+  min-height: 100vh;
+  min-width: 360px;
 
-  .header {
-    margin: auto;
-    @extend %content-width
+  .header-container {
+    width: 100%;
+    background-color: $app-cbackground;
+    border-bottom: 0.1rem solid $app-mborders;
+    border-right: none;
+    border-left: none;
+  
+    .header {
+      margin: auto;
+      @extend %content-width
+    }
+  }
+  
+  .content-container {
+    .content{
+      margin: 2rem auto;
+      @extend %content-width
+    }
   }
 }

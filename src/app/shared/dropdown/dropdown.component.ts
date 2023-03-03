@@ -1,4 +1,5 @@
 import { Component, ElementRef, Input, OnInit, Renderer2, ViewChild } from '@angular/core';
+import { Router } from '@angular/router';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
@@ -12,6 +13,7 @@ export class DropdownComponent implements OnInit {
   @ViewChild('selectedMenuRef') selectedMenuRef: ElementRef;
 
   @Input() menuItems: Array<string> = []
+  @Input() callbackFunction: (args: any) => any;
   selectedMenu: string = "";
   isOpen: boolean = false;
 
@@ -23,6 +25,7 @@ export class DropdownComponent implements OnInit {
 
   toggleSelect(selected: string) {
     this.selectedMenu = selected;
+    this.callbackFunction(selected);
     this.isOpen = false
   }
 
@@ -36,6 +39,6 @@ export class DropdownComponent implements OnInit {
     })
   }
 
-  constructor(private renderer: Renderer2) {}
+  constructor(private router: Router, private renderer: Renderer2) {}
 
 }
