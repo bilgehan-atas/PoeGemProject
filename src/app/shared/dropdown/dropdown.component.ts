@@ -1,5 +1,5 @@
 import { Component, ElementRef, Input, OnInit, Renderer2, ViewChild } from '@angular/core';
-import { Router } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
@@ -14,6 +14,8 @@ export class DropdownComponent implements OnInit {
 
   @Input() menuItems: Array<string> = []
   @Input() callbackFunction: (args: any) => any;
+  @Input() anchorType: string;
+
   selectedMenu: string = "";
   isOpen: boolean = false;
 
@@ -30,7 +32,18 @@ export class DropdownComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.selectedMenu = this.menuItems[0]
+    this.selectedMenu = this.menuItems[0];
+    
+    switch(this.anchorType) {
+      case "query":
+        
+        break;
+      case "url":
+        
+        break;
+      default:
+        break
+    }
 
     this.renderer.listen('window', 'click', (e:Event) => { 
       if(e.target !=this.ddMenuRef.nativeElement && e.target !=this.selectedMenuRef.nativeElement ) {
@@ -39,6 +52,6 @@ export class DropdownComponent implements OnInit {
     })
   }
 
-  constructor(private router: Router, private renderer: Renderer2) {}
+  constructor(private router: Router, private route: ActivatedRoute, private renderer: Renderer2) {}
 
 }

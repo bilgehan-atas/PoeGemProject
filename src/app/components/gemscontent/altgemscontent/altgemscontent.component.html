@@ -1,4 +1,29 @@
 <div class="container">
+  <div class="control-row gap-1">
+
+
+
+
+
+
+    
+
+  <mat-card *ngFor="let item of lensValues">
+      <mat-card-content>
+        <strong>{{ item.name }} Value:</strong> {{ item.value }} Chaos
+      </mat-card-content>
+    </mat-card>
+
+
+
+
+
+
+
+
+
+
+  </div>
   <div class="control-row">
     <mat-form-field>
       <mat-label> Filter </mat-label>

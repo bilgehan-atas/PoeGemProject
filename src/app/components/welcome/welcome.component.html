@@ -1,0 +1,100 @@
+<div class="container">
+  <mat-card class="card-first">
+    <mat-card-header>
+      <mat-card-title> Welcome to poe.thaumaturgy! </mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <p>
+        A tool for automatically calculating the profitability of crafting gems
+        in Path of Exile. This tool allows Path of Exile players to determine
+        whether it's profitable to craft gems, by automatically fetching the
+        current market prices for the required items from poe.ninja. The tool
+        calculates the cost of crafting the gem compared to its expected market
+        value, and shows whether crafting the gem is likely to result in a
+        profit or a loss. This help players make informed decisions about their
+        crafting investments without the need for manual input of data.
+      </p>
+      <mat-divider></mat-divider>
+    </mat-card-content>
+    <mat-card-actions class="actions">
+        <button mat-raised-button color="primary" (click)="selectedLeague ? navigate('Alternative Qualities') : openDialog('0ms', '0ms', 'Alternative Qualities') ">
+            Alternative Quality Calculations
+        </button>
+        <button mat-raised-button disabled color="primary">
+            Corruption Calculations
+        </button>
+    </mat-card-actions>
+  </mat-card>
+
+  <mat-card class="card-generic">
+    <mat-card-header>
+      <mat-card-title>Key Features</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <ul>
+        <li>
+          Automatically fetches the current market prices for the base gem, the
+          quality gem, and any additional crafting materials from poe.ninja.
+        </li>
+        <li>
+          Calculates the cost of crafting a gem based on the fetched prices.
+        </li>
+        <li>Estimates the expected market value of the crafted gem.</li>
+        <li>
+          Determines whether crafting the gem is likely to result in a profit or
+          a loss.
+        </li>
+        <li>
+          Helps players make informed decisions about gem crafting investments.
+        </li>
+      </ul>
+    </mat-card-content>
+  </mat-card>
+
+  <mat-card class="card-generic">
+    <mat-card-header>
+      <mat-card-title>How to Use</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <ul>
+        <li>Select the league from dropdown menu.</li>
+        <li>
+          The tool will automatically fetch the current market prices for the
+          base gem, the quality gem, and any additional crafting materials from
+          poe.ninja.
+        </li>
+        <li>
+          The tool will calculate the estimated cost of crafting the gem and its
+          expected market value.
+        </li>
+        <li>
+          The result will indicate whether crafting the gem is likely to result
+          in a profit or a loss.
+        </li>
+      </ul>
+    </mat-card-content>
+  </mat-card>
+
+  <mat-card class="card-generic">
+    <mat-card-header>
+      <mat-card-title>Additional Information</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <ul>
+        <li>
+          This tool is intended for use with the game Path of Exile and is not
+          affiliated with or endorsed by the game's developers or poe.ninja.
+        </li>
+        <li>
+          The accuracy of the tool's calculations depends on the accuracy of the
+          data fetched from poe.ninja and the current market conditions, and
+          should be used as a guide only.
+        </li>
+        <li>
+          This tool does not provide investment advice and users should exercise
+          their own judgment and discretion when making investment decisions.
+        </li>
+      </ul>
+    </mat-card-content>
+  </mat-card>
+</div>

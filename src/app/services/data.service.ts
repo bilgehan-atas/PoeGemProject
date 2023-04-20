@@ -83,7 +83,17 @@ export class DataService {
         const secondaryRegradingLensValue = res[2].find(
           (i) => i.currencyTypeName === regrading.secondary
         ).chaosEquivalent;
-  
+
+        const combinedData = {
+          lensValues: [
+            {
+              name: regrading.prime, value: primeRegradingLensValue
+            },
+            {
+              name: regrading.secondary, value: secondaryRegradingLensValue
+            }
+          ]
+        }
         const refinedGemData = [];
   
         altGemsProb.forEach((gem) => {
@@ -137,16 +147,12 @@ export class DataService {
             profit: value && baseCost ? value - costR : 0,
           });
         });
-  
-        return refinedGemData;
+
+        combinedData['gemData'] = refinedGemData;
+        return combinedData;
       })
     );
 
     return altGemsData$
   }
-
-  // getData() {
-
-  // }
-
 }

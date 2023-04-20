@@ -1,15 +1,15 @@
 import { OnInit, ViewChild, Component } from '@angular/core';
-
-import { MatPaginator } from '@angular/material/paginator';
-import { MatSort } from '@angular/material/sort';
-import { MatTableDataSource } from '@angular/material/table';
 import { ActivatedRoute } from '@angular/router';
-import { map, take, tap } from 'rxjs';
+
 import { switchMap } from 'rxjs/operators';
 
 import { DataService } from 'src/app/services/data.service';
 
-import { altGemData } from 'src/app/types';
+import { combinedAltGemData } from 'src/app/types';
+
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { MatTableDataSource } from '@angular/material/table';
 
 @Component({
   selector: 'app-altgemscontent',
@@ -19,8 +19,6 @@ import { altGemData } from 'src/app/types';
 export class AltGemscontentComponent implements OnInit {
   @ViewChild(MatPaginator) paginator!: MatPaginator;
   @ViewChild(MatSort) sort!: MatSort;
-
-  selectedLeague: string;
 
   columnsToDisplay = [
     'fName',
@@ -35,6 +33,7 @@ export class AltGemscontentComponent implements OnInit {
   pageSizeOptions = [20, 50, 100, 500];
   dataSource: any;
   minMaxValues: number[];
+  lensValues: any;
 
   filterChange(event: Event) {
     const value = (event.target as HTMLInputElement).value;
@@ -51,27 +50,15 @@ export class AltGemscontentComponent implements OnInit {
       .pipe(
         switchMap((league) => this.dataService.getAltGemsData(league['league']))
       )
-      .subscribe((res: altGemData[]) => {
-        console.log('1')
-        const rawProfit = res.map((gem) => gem.profit);
+      .subscribe((res: combinedAltGemData) => {
+        const rawProfit = res.gemData.map((gem) => gem.profit);
         const rawMin = Math.min(...rawProfit);
         const rawMax = Math.max(...rawProfit);
         this.minMaxValues = [rawMin, rawMax];
-        this.dataSource = new MatTableDataSource(res);
+        this.lensValues = res.lensValues;
+        this.dataSource = new MatTableDataSource(res.gemData);
         this.dataSource.paginator = this.paginator;
         this.dataSource.sort = this.sort;
       });
   }
 }
-
-// this.dataService.altGemsData$
-// .pipe(take(1))
-// .subscribe((res: altGemData[]) => {
-//   const rawProfit = res.map((gem) => gem.profit);
-//   const rawMin = Math.min(...rawProfit);
-//   const rawMax = Math.max(...rawProfit);
-//   this.minMaxValues = [rawMin, rawMax];
-//   this.dataSource = new MatTableDataSource(res);
-//   this.dataSource.paginator = this.paginator;
-//   this.dataSource.sort = this.sort;
-// });

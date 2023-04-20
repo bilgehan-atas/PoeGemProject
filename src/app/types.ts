@@ -17,6 +17,15 @@ export interface altGemData {
   profit?: number;
 }
 
+export interface combinedAltGemData {
+  // lensValues: { name: string; value: number }[];
+  lensValues: any;
+  gemData: altGemData[];
+}
+export class MatMenuListItem {
+  name: string;
+}
+
 export enum regrading {
   prime = 'Prime Regrading Lens',
   secondary = 'Secondary Regrading Lens',

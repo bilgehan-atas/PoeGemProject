@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3rem;
+
+  .card-first {
+    width: 100%;
+  }
+
+  .card-generic {
+    min-width: 40ch;
+    flex: 1 1;
+  }
+
+  mat-card-content {
+    margin: 1rem 0 0;
+
+    ul {
+      margin: 0;
+      padding: 0;
+
+      li {
+        margin: .5rem 0;
+        list-style: none;
+      }
+    }
+  }
+
+  .actions {
+    justify-content: center;
+    gap: 3rem;
+  }
+}

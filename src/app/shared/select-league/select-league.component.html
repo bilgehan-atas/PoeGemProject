@@ -1,0 +1,15 @@
+<div class="menu-wrapper">
+  <span> Select League</span>
+  <button mat-stroked-button [matMenuTriggerFor]="leagueMenu">
+    <span>{{ selectedLeague ? selectedLeague : '...' }}</span>
+  </button>
+</div>
+<mat-menu #leagueMenu="matMenu">
+  <button
+    mat-menu-item
+    (click)="leagueOnChange(league.name)"
+    *ngFor="let league of leagues"
+  >
+    {{ league.name }}
+  </button>
+</mat-menu>
